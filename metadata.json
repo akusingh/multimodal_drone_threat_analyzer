@@ -1,0 +1,5 @@
+{
+  "name": "SkyShield AI",
+  "description": "A high-fidelity Drone Threat Defense Dashboard featuring multimodal sensor fusion and agentic reasoning.",
+  "requestFramePermissions": []
+}
