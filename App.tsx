@@ -194,7 +194,7 @@ const App: React.FC = () => {
                 <img 
                   src={currentScenario.spectrogram_url} 
                   alt="RF Spectrogram" 
-                  className="w-full h-full object-cover opacity-80 group-hover:opacity-100 transition-opacity"
+                  className="w-full h-full object-fill opacity-80 group-hover:opacity-100 transition-opacity"
                 />
                 
                 {/* Scanning overlay */}
